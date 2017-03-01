@@ -15,10 +15,6 @@
 | create        | 创建型设计模式   |
 | structure     | 结构型设计模式   |
 | XMindDescribe | XMind描述文件 |
-|               |           |
-|               |           |
-
-
 
 
 
