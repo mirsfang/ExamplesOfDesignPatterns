@@ -1,7 +1,7 @@
 # ExamplesOfDesignPatterns
 ## 序言
 
-各种设计模式的Uml图、分析与代码实现。所有模式的Uml图都在[XMindDescribe](https://github.com/mirsfang/ExamplesOfDesignPatterns/tree/master/XMindDescribe)目录下的xmind文件里
+各种设计模式的Uml图、分析与代码实现,主要在dev分支。 所有模式的Uml图都在[XMindDescribe](https://github.com/mirsfang/ExamplesOfDesignPatterns/tree/master/XMindDescribe)目录下的xmind文件里
 
 
 
