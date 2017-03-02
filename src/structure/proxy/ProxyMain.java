@@ -8,7 +8,7 @@ import structure.proxy.staticProxy.RealSuject;
 
 /***
  *作者：MirsFang
- *模式：单利模式
+ *模式：代理模式
  *时间：2017/2/28/
  *备注  代理模式运行类
  ***/
