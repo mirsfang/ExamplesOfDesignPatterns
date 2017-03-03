@@ -27,13 +27,14 @@
 * 代理模式
 * 装饰器模式
 * ​访问者模式
+* 观察者模式
 
 
 
 
 ## XMind文件截图
 
-
+[点击前往](https://github.com/mirsfang/ExamplesOfDesignPatterns/blob/master/XMind%E6%88%AA%E5%9B%BE.png)
 
 
 
