@@ -27,13 +27,16 @@
 * ​访问者模式
 * 观察者模式
 * 责任链模式
+* 原型模式
 
 
 
 
 ## XMind文件截图
 
-[点击前往](https://github.com/mirsfang/ExamplesOfDesignPatterns/blob/master/XMind%E6%88%AA%E5%9B%BE.png)
+![Markdown](http://p1.bqimg.com/1949/9172957d0812f740.png)
 
-
+## 一些模式的截图
+![Markdown](http://p1.bqimg.com/1949/f20c478905397ed2.png)
+![Markdown](http://p1.bqimg.com/1949/0121ae17beee2397.png)
 交流群：38240957
