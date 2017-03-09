@@ -24,5 +24,5 @@
 | FlyweightFactory     | 享元工厂    |
 | FlyweightMain        | 享元模式执行类 |
 
-
+一个外部状态,对应一个对象,其他的实例都是基于这个对象。
 
