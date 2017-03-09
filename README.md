@@ -28,7 +28,7 @@
 * 观察者模式
 * 责任链模式
 * 原型模式
-
+* 享元模式
 
 
 
@@ -39,4 +39,7 @@
 ## 一些模式的截图
 ![Markdown](http://p1.bqimg.com/1949/f20c478905397ed2.png)
 ![Markdown](http://p1.bqimg.com/1949/0121ae17beee2397.png)
+
+
+
 交流群：38240957
