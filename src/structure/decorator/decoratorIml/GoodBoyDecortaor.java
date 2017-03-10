@@ -14,7 +14,6 @@ import structure.decorator.decoratorAbs.SchoolReport;
 
 
 public class GoodBoyDecortaor extends Decorator {
-
     public GoodBoyDecortaor(SchoolReport schoolReport) {
         super(schoolReport);
     }
@@ -27,5 +26,6 @@ public class GoodBoyDecortaor extends Decorator {
     public void report() {
         goodBoyDecorator();
         super.report();
+
     }
 }

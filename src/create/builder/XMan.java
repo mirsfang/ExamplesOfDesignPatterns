@@ -1,5 +1,4 @@
-package builder;
-
+package create.builder;
 /**
  * x战警通用属性
  * @author Chayne_Shen 2017/3/10 0010.

@@ -1,4 +1,4 @@
-package builder;
+package create.builder;
 
 /**
  * 测试类，生产一个金刚狼
