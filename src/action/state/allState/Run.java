@@ -9,7 +9,7 @@ import action.state.absState.State;
  *作者：MirsFang
  *模式：状态模式
  *时间：2017/03/16/下午12:23
- *备注  运行状态
+ *备注  运行状态   //
  ***/
 
 public class Run extends State {
