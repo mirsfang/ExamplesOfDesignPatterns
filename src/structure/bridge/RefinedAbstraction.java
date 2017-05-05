@@ -10,7 +10,7 @@ import structure.bridge.abs.Implementor;
  *备注  具体抽象化角色
  ***/
 
-public class RefinedAbstraction  extends Abstraction{
+public class RefinedAbstraction extends Abstraction {
 
     public RefinedAbstraction(Implementor implementor) {
         super(implementor);
