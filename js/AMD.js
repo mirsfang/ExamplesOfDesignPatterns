@@ -12,7 +12,7 @@
 })());
 /*
  * 创建或调用模块方法
- * @param 		url			参数为模块url
+ * @param 		url		参数为模块url
  * @param  		deps 		参数为依赖模块
  * @param		callback	参数为模块主函数
  */
