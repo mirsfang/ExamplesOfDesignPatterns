@@ -9,7 +9,7 @@ package structure.proxy.dynamicProxy;
 public interface Subject {
 
 
-    public abstract void request();
+   void request();
 
 }
 

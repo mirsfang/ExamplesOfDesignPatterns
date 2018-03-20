@@ -43,11 +43,11 @@
 
 ## XMind文件截图
 
-![Markdown](http://p1.bqimg.com/1949/9172957d0812f740.png)
+![Markdown](./XMind截图.png)
 
 ## 一些模式的截图
-![Markdown](http://p1.bqimg.com/1949/f20c478905397ed2.png)
-![Markdown](http://p1.bqimg.com/1949/0121ae17beee2397.png)
+![Markdown](./策略模式.png)
+![Markdown](./观察者模式.png)
 
 
 
