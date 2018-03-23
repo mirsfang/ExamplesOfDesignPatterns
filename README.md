@@ -43,7 +43,7 @@
 
 ## XMind文件截图
 
-![Markdown](./XMind截图.png)
+![Markdown](https://github.com/mirsfang/ExamplesOfDesignPatterns/blob/master/XMind%E6%88%AA%E5%9B%BE.png)
 
 ## 一些模式的截图
 ![Markdown](./策略模式.png)
