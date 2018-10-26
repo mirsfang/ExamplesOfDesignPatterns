@@ -8,7 +8,10 @@ package create.singleton;
 public class Singleton {
     //防止外部创建实例
     private Singleton() {
-
+        //To save singleton from reflection
+        if(mInstance != null) {
+            throw new InstantiationError("Already there");
+        }
     }
     //唯一实例
     private static volatile Singleton mInstance;
@@ -23,6 +26,11 @@ public class Singleton {
                 }
             }
         }
+        return mInstance;
+    }
+    
+     //To save singleton from Deserialization
+    protected Object readResolve() {
         return mInstance;
     }
 }
